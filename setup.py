@@ -47,6 +47,7 @@ setup(
         'twilio>=6.0.0,<6.1',
         'thehive4py>=1.4.4',
         'python-magic>=0.4.15',
-        'cffi>=1.11.5'
+        'cffi>=1.11.5',
+		'urllib3<1.24,>=1.20'
     ]
 )
